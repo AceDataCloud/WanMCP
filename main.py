@@ -121,6 +121,7 @@ Environment Variables:
     safe_print("  Available tools:")
     safe_print("    - wan_generate_video")
     safe_print("    - wan_generate_video_from_image")
+    safe_print("    - wan_generate_video_all_in_one")
     safe_print("    - wan_get_task")
     safe_print("    - wan_get_tasks_batch")
     safe_print("    - wan_list_models")
